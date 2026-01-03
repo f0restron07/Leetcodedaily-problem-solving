@@ -2,9 +2,9 @@ class Solution {
     public int numOfWays(int n) {
         long MOD = 1_000_000_007;
 
-        // Initial values for the first row
-        long typeA = 6; // all three colors different
-        long typeB = 6; // first and third same, middle different
+     
+        long typeA = 6; 
+        long typeB = 6; 
 
         for (int i = 2; i <= n; i++) {
             long newTypeA = (typeA * 2 + typeB * 2) % MOD;
