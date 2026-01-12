@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0002-add-two-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1390-four-divisors) |
 ## Greedy
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1266-minimum-time-visiting-all-points) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
