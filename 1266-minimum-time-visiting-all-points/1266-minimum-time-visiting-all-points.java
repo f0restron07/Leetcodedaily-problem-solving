@@ -7,10 +7,8 @@ class Solution {
             int y1=points[i][1];
             int x2=points[i+1][0];
             int y2=points[i+1][1];
-            time+=Math.max(Math.abs(x2-x1),Math.abs(y2-y1));
-
+            time=time+Math.max(Math.abs(x2-x1),Math.abs(y2-y1));
         }
         return time;
-
     }
 }
