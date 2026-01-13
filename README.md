@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1975-maximum-matrix-sum) |
+| [3453-separate-squares-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3453-separate-squares-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [3453-separate-squares-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3453-separate-squares-i) |
 <!---LeetCode Topics End-->
