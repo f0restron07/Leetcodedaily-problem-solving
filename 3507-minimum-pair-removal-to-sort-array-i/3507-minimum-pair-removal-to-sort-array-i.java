@@ -17,7 +17,6 @@ class Solution {
                 }
             }
 
-
             list.remove(idx);
             list.remove(idx);
             list.add(idx, minSum);
