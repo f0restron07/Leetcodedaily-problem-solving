@@ -1,36 +1,48 @@
+import java.util.*;
+
 class Solution {
-    public int minimumPairRemoval(int[] nums) {
-        int count = 0, lastEleInd = nums.length - 1;
-        if (lastEleInd == 0)
-            return 0;
-        while (!isSorted(nums, lastEleInd)) {
-            int mergeInd = 0, pairSum = Integer.MAX_VALUE;
-            for (int i = 0; i < lastEleInd; i++) {
-                int curSum = nums[i] + nums[i + 1];
-                if (curSum < pairSum) {
-                    pairSum = curSum;
-                    mergeInd = i;
-                }
+
+    // Find index of adjacent pair with minimum sum
+    private int minPairSum(List<Integer> nums) {
+        int minSum = Integer.MAX_VALUE;
+        int index = -1;
+
+        for (int i = 0; i < nums.size() - 1; i++) {
+            int sum = nums.get(i) + nums.get(i + 1);
+            if (sum < minSum) {
+                minSum = sum;
+                index = i;
             }
-            mergeElements(nums, mergeInd, lastEleInd);
-            count++;
-            lastEleInd--;
         }
-        return count;
+        return index;
     }
 
-    public boolean isSorted(int[] nums, int lastEleInd) {
-        for (int i = 0; i < lastEleInd; i++) {
-            if (nums[i] > nums[i + 1])
+    // Check if list is sorted in non-decreasing order
+    private boolean isSorted(List<Integer> nums) {
+        for (int i = 1; i < nums.size(); i++) {
+            if (nums.get(i) < nums.get(i - 1)) {
                 return false;
+            }
         }
         return true;
     }
 
-    public void mergeElements(int[] nums, int ind, int lastEleInd) {
-        nums[ind] += nums[ind + 1];
-        for (int i = ind + 1; i < lastEleInd; i++) {
-            nums[i] = nums[i + 1];
+    public int minimumPairRemoval(int[] arr) {
+        List<Integer> nums = new ArrayList<>();
+        for (int x : arr) nums.add(x);
+
+        int operations = 0;
+
+        while (!isSorted(nums)) {
+            int index = minPairSum(nums);
+
+            // Merge nums[index] and nums[index+1]
+            nums.set(index, nums.get(index) + nums.get(index + 1));
+            nums.remove(index + 1);
+
+            operations++;
         }
+
+        return operations;
     }
 }
