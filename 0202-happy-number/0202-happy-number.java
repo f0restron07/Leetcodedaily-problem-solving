@@ -3,22 +3,18 @@ class Solution {
         int slow=n;
         int fast=n;
         do{
-          slow=findsq(slow);
-          fast=findsq(findsq(fast));  
+            slow=next(slow);
+            fast=next(next(fast));
         }while(slow!=fast);
-        if(slow==1){
-            return true;
-        }
-        return false;
-
+        return slow==1;
     }
-    private int findsq(int n){
-        int ans=0;
-        while(n>0){
+    public int next(int n){
+        int sum=0;
+        while(n!=0){
             int rem=n%10;
-            ans+=rem*rem;
+            sum=sum+(rem*rem);
             n=n/10;
         }
-        return ans;
+        return sum;
     }
 }
