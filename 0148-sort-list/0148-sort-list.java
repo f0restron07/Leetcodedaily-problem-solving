@@ -10,50 +10,39 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        if (head == null || head.next == null) {
+        if(head==null||head.next==null){
             return head;
         }
-
-        ListNode mid = getMid(head);
-
-        ListNode left = sortList(head);
-        ListNode right = sortList(mid);
-
-        return mergeTwoLists(left, right);
+        ListNode mid=getmid(head);
+        ListNode left=sortList(head);
+        ListNode right=sortList(mid);
+        return mergeList(left,right);
     }
-
-    public ListNode getMid(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
-        ListNode prev = null;
-
-        while (fast != null && fast.next != null) {
-            prev = slow;
-            slow = slow.next;
-            fast = fast.next.next;
+    private ListNode getmid(ListNode head){
+        ListNode prev=null;
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast!=null&&fast.next!=null){
+            prev=slow;
+            slow=slow.next;
+            fast=fast.next.next;
         }
-
-        if (prev != null) prev.next = null; // 🔥 key line
-
+        if(prev!=null)prev.next=null;
         return slow;
     }
-
-    public ListNode mergeTwoLists(ListNode n1, ListNode n2) {
-        ListNode dummy = new ListNode(-1);
-        ListNode tail = dummy;
-
-        while (n1 != null && n2 != null) {
-            if (n1.val <= n2.val) {
-                tail.next = n1;
-                n1 = n1.next;
-            } else {
-                tail.next = n2;
-                n2 = n2.next;
+    private ListNode mergeList(ListNode first,ListNode second){
+        ListNode dummy=new ListNode(-1);
+        ListNode tail=dummy;
+        while(first!=null&&second!=null){
+            if(first.val<=second.val){
+                tail.next=first;
+                first=first.next;
+            }else{
+                tail.next=second;
+                second=second.next;
             }
-            tail = tail.next;
+            tail=tail.next;
         }
-
-        tail.next = (n1 != null) ? n1 : n2;
+        tail.next=(first!=null)?first:second;
         return dummy.next;
-    }
-}
+    }}
