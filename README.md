@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0704-binary-search) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3453-separate-squares-i) |
@@ -220,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0148-sort-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
