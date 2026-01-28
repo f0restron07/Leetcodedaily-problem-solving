@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0202-happy-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1390-four-divisors) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0704-binary-search) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
