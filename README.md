@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0441-arranging-coins) |
 | [1266-minimum-time-visiting-all-points](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1390-four-divisors) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0704-binary-search) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3453-separate-squares-i) |
