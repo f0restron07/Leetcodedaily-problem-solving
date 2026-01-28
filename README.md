@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0202-happy-number) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0237-delete-node-in-a-linked-list) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
