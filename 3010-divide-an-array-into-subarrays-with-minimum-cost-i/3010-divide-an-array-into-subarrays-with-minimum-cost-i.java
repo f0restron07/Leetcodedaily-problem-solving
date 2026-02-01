@@ -1,17 +1,20 @@
 class Solution {
-    public int minimumCost(int[] nums) {
-        int two = Integer.MAX_VALUE, three = Integer.MAX_VALUE;
-        for(int i=1; i<nums.length; i++){
-            if(nums[i] < three){
-                two = three;
-                three = nums[i];
-            }
-            else if(nums[i] < two && nums[i] >= three){
-                two = nums[i];
-            }
-        }
+    public int minimumCost(int[] arr) {
+        //Start with first element, which is our first value
+        int sum = arr[0];
 
-        return two + three + nums[0];
-        
+        int smallest = Integer.MAX_VALUE; 
+        int secondSmallest = Integer.MAX_VALUE;
+        // find the first and second smalleset value,
+        //Already first value have takenx so we have to find from index 1.
+        for (int i = 1; i < arr.length; i++) {
+            if (arr[i] < smallest) { 
+                secondSmallest = smallest; 
+                smallest = arr[i]; 
+            } else if (arr[i] <= secondSmallest) {
+                secondSmallest = arr[i]; 
+            } 
+        }
+        return sum + smallest +  secondSmallest;
     }
 }
