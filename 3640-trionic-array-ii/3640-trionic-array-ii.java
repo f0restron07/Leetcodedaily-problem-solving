@@ -1,59 +1,69 @@
 class Solution {
+    int n;
+    ArrayList<ArrayList<Long>> memo;
 
     public long maxSumTrionic(int[] nums) {
-        int n = nums.length;
-        long ans = Long.MIN_VALUE;
+        n = nums.length;
+        memo = new ArrayList<>();
 
         for (int i = 0; i < n; i++) {
-            int j = i + 1;
-            long res = 0;
-
-            // first segment: increasing segment
-            while (j < n && nums[j - 1] < nums[j]) {
-                j++;
-            }
-            int p = j - 1;
-
-            if (p == i) {
-                continue;
-            }
-
-            // second segment: decreasing segment
-            res += nums[p] + nums[p - 1];
-            while (j < n && nums[j - 1] > nums[j]) {
-                res += nums[j];
-                j++;
-            }
-            int q = j - 1;
-
-            if (q == p || q == n - 1 || (j < n && nums[j] <= nums[q])) {
-                i = q;
-                continue;
-            }
-
-            // third segment: increasing segment
-            res += nums[q + 1];
-
-            // find the maximum sum of the third segment
-            long maxSum = 0;
-            long sum = 0;
-            for (int k = q + 2; k < n && nums[k] > nums[k - 1]; k++) {
-                sum += nums[k];
-                maxSum = Math.max(maxSum, sum);
-            }
-            res += maxSum;
-
-            maxSum = 0;
-            sum = 0;
-            for (int k = p - 2; k >= i; k--) {
-                sum += nums[k];
-                maxSum = Math.max(maxSum, sum);
-            }
-            res += maxSum;
-            ans = Math.max(ans, res);
-            i = q - 1;
+            ArrayList<Long> row = new ArrayList<>(Collections.nCopies(4, null));
+            memo.add(row);
         }
 
+        return solve(0, nums, 0);
+    }
+
+    long solve(int i, int[] arr, int trend) {
+        // Base condition
+        if (i == n) {
+            if (trend == 3) {
+                return 0;
+            } else {
+                return Long.MIN_VALUE / 2;
+            }
+        }
+
+        long take = Long.MIN_VALUE / 2;
+        long skip = Long.MIN_VALUE / 2;
+
+        if (memo.get(i).get(trend) != null) {
+            return memo.get(i).get(trend);
+        }
+
+        if (trend == 0) {
+            skip = solve(i + 1, arr, 0);
+        }
+
+        if (trend == 3) {
+            take = arr[i];
+        }
+
+        if (i + 1 < n) {
+            long curr = arr[i];
+            long next = arr[i + 1];
+
+            if (trend == 0 && curr < next) {
+                take = Math.max(take, curr + solve(i + 1, arr, 1));
+            } else if (trend == 1) { // For Increasing
+                if (curr < next) {
+                    take = Math.max(take, curr + solve(i + 1, arr, 1));
+                } else if (curr > next) {
+                    take = Math.max(take, curr + solve(i + 1, arr, 2));
+                }
+            } else if (trend == 2) { // For Decreasing
+                if (curr > next) {
+                    take = Math.max(take, curr + solve(i + 1, arr, 2));
+                } else if (curr < next) {
+                    take = Math.max(take, curr + solve(i + 1, arr, 3));
+                }
+            } else if (trend == 3 && curr < next) { // Increaing 
+                take = Math.max(take, curr + solve(i + 1, arr, 3));
+            }
+
+        }
+        long ans = Math.max(take, skip);
+        memo.get(i).set(trend, ans);
         return ans;
     }
 }
