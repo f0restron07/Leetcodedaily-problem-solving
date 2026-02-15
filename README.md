@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0006-zigzag-conversion) |
+| [0067-add-binary](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0367-valid-perfect-square) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0067-add-binary) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Two Pointers
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
