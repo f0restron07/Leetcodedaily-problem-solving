@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0202-happy-number) |
+| [0696-count-binary-substrings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
