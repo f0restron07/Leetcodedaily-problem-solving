@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0799-champagne-tower) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
