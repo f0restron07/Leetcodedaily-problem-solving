@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0242-valid-anagram) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0242-valid-anagram) |
 | [0696-count-binary-substrings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0242-valid-anagram) |
 | [1200-minimum-absolute-difference](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
