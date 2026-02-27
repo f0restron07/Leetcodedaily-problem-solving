@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3110-score-of-a-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3110-score-of-a-string) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3714-longest-balanced-substring-ii) |
 ## Sliding Window
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1390-four-divisors) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Greedy
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
 | ------- |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -387,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
