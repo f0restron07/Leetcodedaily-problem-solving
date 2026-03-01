@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1200-minimum-absolute-difference) |
