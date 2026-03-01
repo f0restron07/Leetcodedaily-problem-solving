@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0896-monotonic-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0896-monotonic-array) |
 | [1200-minimum-absolute-difference](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
