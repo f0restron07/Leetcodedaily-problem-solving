@@ -1,13 +1,22 @@
+import java.util.HashMap;
+
 class Solution {
     public int majorityElement(int[] nums) {
-        Map<Integer,Integer>map=new HashMap<>();
-        int maxele=nums[0],count=0;
-        for(int i=0;i<nums.length;i++){
-            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
-            if (map.get(nums[i]) > count) {
-                count = map.get(nums[i]);
-                maxele = nums[i];
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        int maxCount = 0;
+        int majority = 0;
+
+        for(int num : nums) {
+            int count = map.getOrDefault(num, 0) + 1;
+            map.put(num, count);
+
+            if(count > maxCount) {
+                maxCount = count;
+                majority = num;
             }
-        }return maxele;
+        }
+
+        return majority;
     }
 }
