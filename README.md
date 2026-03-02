@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1512-number-of-good-pairs) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3110-score-of-a-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3110-score-of-a-string) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1512-number-of-good-pairs) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3713-longest-balanced-substring-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3713-longest-balanced-substring-i) |
 ## Backtracking
 |  |
