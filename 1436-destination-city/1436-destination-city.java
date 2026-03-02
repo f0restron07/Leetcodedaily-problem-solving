@@ -1,23 +1,8 @@
-import java.util.HashSet;
-import java.util.List;
-
 class Solution {
     public String destCity(List<List<String>> paths) {
-        HashSet<String> startingCities = new HashSet<>();
-        
-        // Step 1: store all cityA
-        for(List<String> path : paths) {
-            startingCities.add(path.get(0));
-        }
-        
-        // Step 2: find cityB not in startingCities
-        for(List<String> path : paths) {
-            String destination = path.get(1);
-            if(!startingCities.contains(destination)) {
-                return destination;
-            }
-        }
-        
-        return "";
+        Set<String> set= new HashSet<>();
+        for (List<String> l: paths) set.add(l.get(1));
+        for (List<String> l: paths) set.remove(l.get(0));
+        return set.iterator().next();
     }
 }
