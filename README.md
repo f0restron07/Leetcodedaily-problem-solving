@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0896-monotonic-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0896-monotonic-array) |
 | [1002-find-common-characters](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1002-find-common-characters](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1122-relative-sort-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0761-special-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0761-special-binary-string) |
+| [1122-relative-sort-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -440,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
