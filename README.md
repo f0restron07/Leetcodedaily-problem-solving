@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1002-find-common-characters](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1002-find-common-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1512-number-of-good-pairs) |
@@ -433,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
