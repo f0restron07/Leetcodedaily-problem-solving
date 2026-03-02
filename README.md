@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1390-four-divisors) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1436-destination-city) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1512-number-of-good-pairs](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1512-number-of-good-pairs) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1512-number-of-good-pairs) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1512-number-of-good-pairs) |
 | [3713-longest-balanced-substring-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3713-longest-balanced-substring-i) |
 ## Backtracking
