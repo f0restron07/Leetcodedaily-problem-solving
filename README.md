@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0704-binary-search) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0761-special-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0761-special-binary-string) |
 | [1122-relative-sort-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1122-relative-sort-array) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3719-longest-balanced-subarray-i) |
@@ -450,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -488,4 +494,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
