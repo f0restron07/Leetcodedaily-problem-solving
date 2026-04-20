@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2463-minimum-total-distance-traveled](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2463-minimum-total-distance-traveled) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
