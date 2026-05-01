@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0441-arranging-coins) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1266-minimum-time-visiting-all-points) |
