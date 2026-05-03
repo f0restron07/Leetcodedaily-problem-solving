@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0796-rotate-string) |
 | [1002-find-common-characters](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1002-find-common-characters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -629,5 +630,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
