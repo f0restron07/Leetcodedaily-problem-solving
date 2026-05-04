@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0202-happy-number) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
