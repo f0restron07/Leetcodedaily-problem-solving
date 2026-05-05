@@ -8,45 +8,26 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
-    public ListNode rotateRight(ListNode head, int k) {
-        if (head == null || head.next == null || k == 0) {
-            return head;
+class Solution{
+    public ListNode rotateRight(ListNode a,int b){
+        if(a==null||a.next==null||b==0){
+            return a;
         }
-
-        // 1. Find length
-        int len = 0;
-        ListNode temp = head;
-        while (temp != null) {
-            len++;
-            temp = temp.next;
+        int c=1;
+        ListNode d=a;
+        while(d.next!=null){
+            d=d.next;
+            c++;
         }
-
-        // 2. Handle large k
-        k = k % len;
-        if (k == 0) return head;
-
-        // 3. Go to (len - k - 1)th node
-        ListNode prev = head;
-        for (int i = 1; i < len - k; i++) {
-            prev = prev.next;
+        d.next=a;
+        b=b%c;
+        int e=c-b;
+        ListNode f=a;
+        for(int g=1;g<e;g++){
+            f=f.next;
         }
-
-        // 4. New head
-        ListNode newHead = prev.next;
-
-        // 5. Break link
-        prev.next = null;
-
-        // 6. Go to last node of newHead
-        ListNode tail = newHead;
-        while (tail.next != null) {
-            tail = tail.next;
-        }
-
-        // 7. Connect tail to old head
-        tail.next = head;
-
-        return newHead;
+        ListNode h=f.next;
+        f.next=null;
+        return h;
     }
 }
