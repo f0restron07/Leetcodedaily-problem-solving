@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1980-find-unique-binary-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2784-check-if-array-is-good](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-total-distance-traveled](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
