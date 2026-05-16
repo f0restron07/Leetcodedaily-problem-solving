@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0347-top-k-frequent-elements) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0367-valid-perfect-square) |
