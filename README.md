@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3640-trionic-array-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3637-trionic-array-i) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1382-balance-a-binary-search-tree) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -499,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Two Pointers
 |  |
 | ------- |
