@@ -10,35 +10,26 @@
  */
 class Solution {
     public int pairSum(ListNode head) {
-        ListNode head2=rev(getmid(head));
-        ListNode head1=head;
-        int max=0;
-        int i=0;
-        while(head2!=null){
-            max = Math.max(max, head1.val + head2.val);
-            head1=head1.next;
-            head2=head2.next;
+        ListNode a=head;
+        ListNode b=head;
+        while(b!=null&&b.next!=null){
+            a=a.next;
+            b=b.next.next;
         }
-        return max;
-    }
-    private ListNode getmid(ListNode head){
-        ListNode slow=head;
-        ListNode fast=head;
-        while(fast!=null&&fast.next!=null){
-            slow=slow.next;
-            fast=fast.next.next;
+        ListNode c=null;
+        while(a!=null){
+            ListNode d=a.next;
+            a.next=c;
+            c=a;
+            a=d;
         }
-        return slow;
-    }
-    private ListNode rev(ListNode head){
-        ListNode prev=null;
-        ListNode curr=head;
-        while(curr!=null){
-            ListNode next=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=next;
+        int e=0;
+        ListNode f=head;
+        while(c!=null){
+            e=Math.max(e,f.val+c.val);
+            f=f.next;
+            c=c.next;
         }
-        return prev;
+        return e;
     }
 }
