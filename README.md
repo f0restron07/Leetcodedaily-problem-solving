@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3093-longest-common-suffix-queries) |
 | [3110-score-of-a-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3110-score-of-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3612-process-string-with-special-operations-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3714-longest-balanced-substring-ii) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3838-weighted-word-mapping) |
 ## Doubly-Linked List
