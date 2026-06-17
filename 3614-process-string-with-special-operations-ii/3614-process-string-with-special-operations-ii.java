@@ -16,12 +16,13 @@ class Solution {
             char c = s.charAt(i);
             long before = len[i];
             if (c == '*') {
+                // deleted char was at the end, beyond k — ignore
             } else if (c == '#') {
-                if (k >= before) k -= before;
+                if (k >= before) k -= before;   // map second copy back to first
             } else if (c == '%') {
-                k = before - 1 - k; 
+                k = before - 1 - k;             // undo reversal
             } else {
-                if (k == before) return c;
+                if (k == before) return c;      // k is exactly the char appended here
             }
         }
         return '.';
