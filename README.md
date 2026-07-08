@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1436-destination-city) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1480-running-sum-of-1d-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1512-number-of-good-pairs) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1871-jump-game-vii) |
