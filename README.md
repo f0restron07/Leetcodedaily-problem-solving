@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0796-rotate-string) |
 | [1002-find-common-characters](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1002-find-common-characters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0143-reorder-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2751-robot-collisions) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0085-maximal-rectangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Geometry
 |  |
 | ------- |
