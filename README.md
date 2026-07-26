@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0874-walking-robot-simulation) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0761-special-binary-string) |
 | [1122-relative-sort-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1200-minimum-absolute-difference) |
