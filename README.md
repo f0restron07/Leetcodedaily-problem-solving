@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3110-score-of-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3614-process-string-with-special-operations-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1122-relative-sort-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1122-relative-sort-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
