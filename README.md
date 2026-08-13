@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2463-minimum-total-distance-traveled](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1980-find-unique-binary-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1622-fancy-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3719-longest-balanced-subarray-i) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3666-minimum-operations-to-equalize-binary-string) |
