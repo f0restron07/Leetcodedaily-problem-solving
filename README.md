@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3731-find-missing-elements) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
