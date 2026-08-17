@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0896-monotonic-array) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -854,4 +856,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2029-stone-game-ix) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
