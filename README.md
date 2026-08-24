@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1872-stone-game-viii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1895-largest-magic-square) |
 | [2906-construct-product-matrix](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2906-construct-product-matrix) |
@@ -865,17 +869,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
