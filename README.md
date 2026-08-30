@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2029-stone-game-ix) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3348-smallest-divisible-digit-product-ii) |
