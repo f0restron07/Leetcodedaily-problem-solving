@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3721-longest-balanced-subarray-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3903-smallest-stable-index-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
