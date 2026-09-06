@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0396-rotate-function) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0383-ransom-note) |
