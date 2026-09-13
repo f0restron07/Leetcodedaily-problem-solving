@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0835-image-overlap](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0877-stone-game) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
