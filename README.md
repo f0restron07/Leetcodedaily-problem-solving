@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0067-add-binary) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0143-reorder-list) |
@@ -990,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
