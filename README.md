@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0392-is-subsequence) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0301-remove-invalid-parentheses) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1096-brace-expansion-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
