@@ -14,36 +14,29 @@
  * }
  */
 class Solution {
-    public List<Double> averageOfLevels(TreeNode root) {
-        List<Double> result = new ArrayList<>();
-
-    if (root == null) {
-      return result;
-    }
-
-    Queue<TreeNode> queue = new LinkedList<>();
-    queue.offer(root);
-
-    while (!queue.isEmpty()) {
-      int levelSize = queue.size();
-      List<Integer> currentLevel = new ArrayList<>(levelSize);
-      for (int i=0; i < levelSize; i++) {
-        TreeNode currentNode = queue.poll();
-        currentLevel.add(currentNode.val);
-        if (currentNode.left != null) {
-          queue.offer(currentNode.left);
-        }
-        if (currentNode.right != null) {
-          queue.offer(currentNode.right);
-        }
-      }
-      double sum = 0;
-            for (int i = 0; i < levelSize; i++) {
-                sum += currentLevel.get(i);
+   public List<Double> averageOfLevels(TreeNode root) {
+        List<Double>result=new ArrayList<>();
+        Queue<TreeNode> queue=new LinkedList<>();
+        queue.offer(root);
+        while(!queue.isEmpty()){
+            int size= queue.size();
+            List<Integer>currentlevel=new ArrayList<>(size);
+            for (int i = 0; i < size; i++) {
+                TreeNode curr=queue.poll();
+                currentlevel.add(curr.val);
+                if(curr.left!=null){
+                    queue.offer(curr.left);
+                }
+                if(curr.right!=null){
+                    queue.offer(curr.right);
+                }
             }
-            result.add(sum / levelSize);
+            double sum=0;
+            for (int i = 0; i < size; i++) {
+                sum=sum+currentlevel.get(i);
+            }
+            result.add((double) (sum/size));
+        }
+        return result;
     }
-
-    return result;
-  }
     }
