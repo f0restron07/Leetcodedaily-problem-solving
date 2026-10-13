@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3721-longest-balanced-subarray-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
