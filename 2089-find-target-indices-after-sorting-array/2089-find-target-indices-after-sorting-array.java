@@ -6,6 +6,9 @@ class Solution {
             if(nums[i]==target){
                 res.add(i);
             }
+            if(nums[i]>target){
+                break;
+            }
         }return res;
     }
 }
