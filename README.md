@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2409-count-days-spent-together) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
