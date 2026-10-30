@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0349-intersection-of-two-arrays) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1260-shift-2d-grid) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0543-diameter-of-binary-tree) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0301-remove-invalid-parentheses) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1026,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1559-detect-cycles-in-2d-grid) |
