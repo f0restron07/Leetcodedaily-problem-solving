@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0301-remove-invalid-parentheses) |
+| [0547-number-of-provinces](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -971,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -1038,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1559-detect-cycles-in-2d-grid) |
