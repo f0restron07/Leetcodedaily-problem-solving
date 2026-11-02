@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0704-binary-search) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0836-rectangle-overlap) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0761-special-binary-string) |
 | [1096-brace-expansion-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1096-brace-expansion-ii) |
