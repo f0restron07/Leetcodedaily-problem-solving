@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0896-monotonic-array) |
+| [0994-rotting-oranges](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1140-stone-game-ii) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1254-number-of-closed-islands) |
