@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1895-largest-magic-square) |
+| [1929-concatenation-of-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -933,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1929-concatenation-of-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
