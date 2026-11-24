@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3379-transformed-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3453-separate-squares-i) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3634-minimum-removals-to-balance-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
 |  |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3524-find-x-value-of-array-i) |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -1141,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
