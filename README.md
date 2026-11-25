@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1386-cinema-seat-allocation) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1512-number-of-good-pairs) |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1120,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2069-walking-robot-simulation-ii) |
 ## String Matching
@@ -1216,4 +1220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
