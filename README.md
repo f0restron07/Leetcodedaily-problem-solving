@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -970,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
