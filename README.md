@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Array
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3903-smallest-stable-index-i) |
 | [3934-smallest-unique-subarray](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/f0restron07/Leetcodedaily-problem-solving/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
